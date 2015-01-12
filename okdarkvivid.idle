@@ -1,0 +1,29 @@
+[okdarkvivid]
+break-background = #fc7c21
+break-foreground = #f8f8f8
+builtin-background = #272822
+builtin-foreground = #f92672
+comment-background = #272822
+comment-foreground = #757152
+console-background = #272822
+console-foreground = #f8f8f2
+cursor-foreground = #a5e22e
+definition-background = #272822
+definition-foreground = #66d9ef
+error-background = #f92673
+error-foreground = #f8f8f0
+hilite-background = #a5e22e
+hilite-foreground = #000000
+hit-background = #fc7c21
+hit-foreground = #000000
+keyword-background = #272822
+keyword-foreground = #fc7c21
+normal-background = #272822
+normal-foreground = #f8f8f8
+stderr-background = #272822
+stderr-foreground = #f92672
+stdout-background = #272822
+stdout-foreground = #8f7ee2
+string-background = #272822
+string-foreground = #e3b242
+
